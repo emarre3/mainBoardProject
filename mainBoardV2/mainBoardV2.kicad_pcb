@@ -8447,5 +8447,18 @@
 			)
 		)
 	)
+	(gr_text "This is a test"
+		(at 178 140.5 0)
+		(layer "Cmts.User")
+		(uuid "d23354b1-cfe4-413f-8945-9375855fd7f5")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.3)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
 	(embedded_fonts no)
 )
