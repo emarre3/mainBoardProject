@@ -1,0 +1,12 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "APGF1012GBRC-07")(type "KiCad")(uri "${KIPRJMOD}/modelFiles/APGF1012GBRC-07")(options "")(descr ""))
+  (lib (name "ESP32-CAM")(type "KiCad")(uri "${KIPRJMOD}/modelFiles/ESP32-CAM")(options "")(descr ""))
+  (lib (name "ESP32-DEVKITC-32E")(type "KiCad")(uri "${KIPRJMOD}/modelFiles/ESP32-DEVKITC-32E")(options "")(descr ""))
+  (lib (name "OC09600")(type "KiCad")(uri "${KIPRJMOD}/modelFiles/OC09600")(options "")(descr ""))
+  (lib (name "MCP73871-2AAI_ML")(type "KiCad")(uri "${KIPRJMOD}/modelFiles/MCP73871-2AAI_ML")(options "")(descr ""))
+  (lib (name "T495C107K006ATE150(1)")(type "KiCad")(uri "${KIPRJMOD}/modelFiles/T495C107K006ATE150(1)")(options "")(descr ""))
+  (lib (name "tactileSwitch")(type "KiCad")(uri "${KIPRJMOD}/modelFiles/tactileSwitch")(options "")(descr ""))
+  (lib (name "TPS61090RSARG4")(type "KiCad")(uri "${KIPRJMOD}/modelFiles/TPS61090RSARG4")(options "")(descr ""))
+  (lib (name "USB4125-GF-A_REVA2")(type "KiCad")(uri "${KIPRJMOD}/modelFiles/USB4125-GF-A_REVA2")(options "")(descr ""))
+)

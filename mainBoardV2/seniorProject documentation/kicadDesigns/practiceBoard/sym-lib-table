@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 0)
+  (lib (name "practiceBoard-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/practiceBoard-eagle-import.kicad_sym")(options "")(descr ""))
+)
