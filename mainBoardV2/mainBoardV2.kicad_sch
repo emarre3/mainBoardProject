@@ -4521,7 +4521,7 @@
 	)
 	(wire
 		(pts
-			(xy 25.4 125.73) (xy 21.59 125.73)
+			(xy 20.32 129.54) (xy 21.59 129.54)
 		)
 		(stroke
 			(width 0)
@@ -4601,7 +4601,7 @@
 	)
 	(wire
 		(pts
-			(xy 21.59 125.73) (xy 21.59 120.65)
+			(xy 21.59 129.54) (xy 21.59 120.65)
 		)
 		(stroke
 			(width 0)
@@ -4981,7 +4981,7 @@
 	)
 	(wire
 		(pts
-			(xy 25.4 129.54) (xy 21.59 129.54)
+			(xy 20.32 133.35) (xy 21.59 133.35)
 		)
 		(stroke
 			(width 0)
@@ -5731,7 +5731,7 @@
 	)
 	(wire
 		(pts
-			(xy 21.59 129.54) (xy 21.59 167.64)
+			(xy 21.59 133.35) (xy 21.59 167.64)
 		)
 		(stroke
 			(width 0)
@@ -6988,76 +6988,6 @@
 			(project ""
 				(path "/7ab8875a-49c9-4be9-9bdd-57c13261595f"
 					(reference "C4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 143.51 95.25 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "4f7a2b0f-b4e8-46f7-9fb0-84eccc59e722")
-		(property "Reference" "R16"
-			(at 146.05 93.9799 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "R"
-			(at 146.05 96.5199 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 141.732 95.25 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 143.51 95.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 143.51 95.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "fa201c42-f5c8-4221-b7c7-7d0b18766390")
-		)
-		(pin "2"
-			(uuid "c8c9aeb1-108f-47db-9e87-baff187ddba2")
-		)
-		(instances
-			(project ""
-				(path "/7ab8875a-49c9-4be9-9bdd-57c13261595f"
-					(reference "R16")
 					(unit 1)
 				)
 			)
@@ -9307,7 +9237,7 @@
 	)
 	(symbol
 		(lib_id "Connector:JST_2pin_2mm")
-		(at 29.21 121.92 0)
+		(at 24.13 125.73 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9315,7 +9245,7 @@
 		(dnp no)
 		(uuid "c5b9180a-eee0-4886-8bdc-0f436b4dbeb3")
 		(property "Reference" "U6"
-			(at 29.464 122.174 0)
+			(at 24.384 125.984 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9324,7 +9254,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 38.1 130.3047 0)
+			(at 33.02 134.1147 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9334,7 +9264,7 @@
 			)
 		)
 		(property "Footprint" "Connector_JST:JST_PH_S2B-PH-K_1x02_P2.00mm_Horizontal"
-			(at 29.21 121.92 0)
+			(at 24.13 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9343,7 +9273,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 29.21 121.92 0)
+			(at 24.13 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9352,7 +9282,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 29.21 121.92 0)
+			(at 24.13 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
