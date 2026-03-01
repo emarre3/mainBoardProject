@@ -8773,7 +8773,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "bbfa071c-637f-4fd2-b7e0-ecfbee3e1b64")
