@@ -4113,6 +4113,16 @@
 		)
 		(uuid "82f73656-5e17-450e-a9b9-0181c2c734f0")
 	)
+	(text "Meeting point of two circuits!"
+		(exclude_from_sim no)
+		(at 31.242 118.618 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "86df3831-4dc1-487e-a155-18af2f3188bd")
+	)
 	(text "VOUT"
 		(exclude_from_sim no)
 		(at 150.368 154.432 0)

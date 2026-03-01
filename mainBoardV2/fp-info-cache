@@ -1,4 +1,4 @@
-27250909350686369
+27254453996636865
 APGF1012GBRC-07
 LED_APGF1012GBRC-07
 
@@ -391,6 +391,13 @@ battery CR-3032 coin cell vertical
 0
 2
 2
+BivarSMTL-SRGY
+BivarSMTL-SRGY
+
+
+0
+4
+4
 Button_Switch_Keyboard
 SW_Cherry_MX_1.00u_PCB
 Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
@@ -71875,6 +71882,13 @@ QFN50P400X400X100-21N
 0
 21
 21
+MCP73871-2AAI_ML
+Untitled
+
+
+0
+0
+0
 Module
 A20_OLINUXINO_LIME2
 A20 Olinuxino LIME2, 1.2GHz, 512-1024MB RAM, Micro-SD, NAND or eMMC, 1000Mbit Ethernet
