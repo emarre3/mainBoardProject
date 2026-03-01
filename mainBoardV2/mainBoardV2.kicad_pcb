@@ -2458,7 +2458,7 @@
 		(uuid "6dbbcabb-b04c-4fe2-9911-90fc02f70800")
 		(at 94.096744 112.760744 -90)
 		(property "Reference" "U5"
-			(at 8.651256 9.768744 0)
+			(at 11.684 -6.096 90)
 			(layer "F.SilkS")
 			(uuid "ec66193f-3650-41e1-978c-4ebafcbdf542")
 			(effects
