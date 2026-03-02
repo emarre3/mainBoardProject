@@ -5819,6 +5819,16 @@
 		)
 		(uuid "565d84d9-ebe6-44e6-a5ae-22f605737bb5")
 	)
+	(label "SW"
+		(at 71.12 156.21 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "7e5889eb-2a42-4664-a41b-445d200ec83c")
+	)
 	(label "VBAT+"
 		(at 138.43 31.75 0)
 		(effects
