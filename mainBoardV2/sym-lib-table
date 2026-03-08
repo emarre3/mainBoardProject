@@ -9,4 +9,5 @@
   (lib (name "430182043816")(type "KiCad")(uri "${KIPRJMOD}/modelFiles/tactileSwitch/430182043816.kicad_sym")(options "")(descr ""))
   (lib (name "TPS61090RSARG4")(type "KiCad")(uri "${KIPRJMOD}/modelFiles/TPS61090RSARG4/TPS61090RSARG4.kicad_sym")(options "")(descr ""))
   (lib (name "USB4125-GF-A_REVA2")(type "KiCad")(uri "${KIPRJMOD}/modelFiles/USB4125-GF-A_REVA2/USB4125-GF-A_REVA2.kicad_sym")(options "")(descr ""))
+  (lib (name "TPS61023DRLT")(type "KiCad")(uri "${KIPRJMOD}/modelFiles/TPS61023DRLT/TPS61023DRLT.kicad_sym")(options "")(descr ""))
 )
