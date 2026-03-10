@@ -66,14 +66,14 @@
 			(pin bidirectional line
 				(at -5.08 -2.54 0)
 				(length 2.54)
-				(name "Polarity_Marker"
+				(name "Common_Anode"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "3"
+				(number "4"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -102,14 +102,14 @@
 			(pin bidirectional line
 				(at 5.08 -11.43 180)
 				(length 2.54)
-				(name "Blue"
+				(name "Yellow"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "4"
+				(number "2"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -127,7 +127,7 @@
 						)
 					)
 				)
-				(number "2"
+				(number "3"
 					(effects
 						(font
 							(size 1.27 1.27)
