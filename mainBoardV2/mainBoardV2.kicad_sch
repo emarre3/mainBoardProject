@@ -4988,16 +4988,16 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 116.84 64.77 180)
+		(at 116.84 64.77 0)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "04b529e4-0d26-49fb-9854-effae9a4e5d7")
 		(property "Reference" "R11"
-			(at 119.38 63.4999 0)
+			(at 114.3 63.4999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5006,7 +5006,7 @@
 			)
 		)
 		(property "Value" "100k"
-			(at 119.38 66.0399 0)
+			(at 118.872 65.786 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5015,7 +5015,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
-			(at 118.618 64.77 90)
+			(at 115.062 64.77 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8606,15 +8606,15 @@
 	(symbol
 		(lib_id "Device:R")
 		(at 124.46 57.15 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "fe4452e4-6d9f-43de-9004-bb9cca8ccaf4")
 		(property "Reference" "R12"
-			(at 127 55.8799 0)
+			(at 121.92 55.8799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8623,7 +8623,7 @@
 			)
 		)
 		(property "Value" "2k"
-			(at 127 58.4199 0)
+			(at 121.92 58.4199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8632,7 +8632,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
-			(at 122.682 57.15 90)
+			(at 126.238 57.15 90)
 			(effects
 				(font
 					(size 1.27 1.27)

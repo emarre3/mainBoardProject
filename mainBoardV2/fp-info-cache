@@ -1,4 +1,4 @@
-27256227373351695
+27242058414526397
 APGF1012GBRC-07
 LED_APGF1012GBRC-07
 
@@ -1788,13 +1788,6 @@ Button_Switch_SMD
 SW_Tactile_SPST_NO_Straight_CK_PTS636Sx25SMTRLFS
 Tactile switch, SPST, 6.0x3.5 mm, H2.5 mm, straight, NO, gull wing leads: https://www.ckswitches.com/media/2779/pts636.pdf
 switch tactile SPST 1P1T straight NO SMTR C&K
-0
-2
-2
-Button_Switch_SMD
-Untitled
-
-
 0
 2
 2
@@ -68354,20 +68347,6 @@ air coil inductor wurth we cair
 0
 2
 2
-Inductor_SMD
-Sumida_senior
-
-
-0
-2
-2
-Inductor_SMD
-Untitled
-
-
-0
-2
-2
 Inductor_SMD_Wurth
 L_Wurth_WE-LQSH-2010
 Semi-Shielded High Saturation Power Inductor, body 2x1.6mm, https://www.we-online.com/catalog/en/WE-LQSH#/articles/WE-LQSH-2010
@@ -70602,13 +70581,6 @@ solder jumper open
 3
 3
 LED_SMD
-BivarSMTL-SRGY
-
-
-0
-4
-4
-LED_SMD
 LED-APA102-2020
 http://www.led-color.com/upload/201604/APA102-2020%20SMD%20LED.pdf
 LED RGB SPI
@@ -71294,20 +71266,6 @@ LED
 0
 2
 2
-LED_SMD
-LTST_SMD
-
-
-0
-4
-4
-LED_SMD
-Untitled
-
-
-0
-4
-4
 LED_THT
 LED_BL-FL7680RGB
 'Piranha' RGB LED, through hole, common anode, 7.62x7.62mm, BGRA pin order, https://cdn-shop.adafruit.com/datasheets/BL-FL7680RGB.pdf
@@ -72079,20 +72037,6 @@ Google_Coral TPU Module
 120
 120
 Module
-MODULE_ESP32-DEVKITC-32E
-
-
-0
-38
-38
-Module
-MODULE_MPU6050_ACCEL_GYRO
-
-
-0
-8
-8
-Module
 Maple_Mini
 Maple Mini, http://docs.leaflabs.com/static.leaflabs.com/pub/leaflabs/maple-docs/0.0.12/hardware/maple-mini.html
 Maple Mini
@@ -72232,13 +72176,6 @@ module pcb
 0
 7
 7
-Module
-Untitled
-
-
-0
-0
-0
 Motors
 Vybronics_VZ30C1T8219732L
 Vibration motor, 2.3-3.2V, 14000rpm, 0.7G, https://www.vybronics.com/wp-content/uploads/datasheet-files/Vybronics-VZ30C1T8219732L-datasheet.pdf
@@ -108041,6 +107978,13 @@ Varistor
 Varistor_Panasonic_VF
 Panasonic VF series varistor, 6x8mm body, 3.2mm height, https://mediap.industry.panasonic.eu/assets/imported/industrial.panasonic.com/cdbs/www-data/pdf/AWA0000/AWA0000C4.pdf
 Varistor VF
+0
+2
+2
+XEL4030-102MEC
+IND_XEL4030-102MEC
+
+
 0
 2
 2
