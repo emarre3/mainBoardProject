@@ -6774,7 +6774,7 @@
 	(footprint "XEL4030-102MEC:IND_XEL4030-102MEC"
 		(layer "F.Cu")
 		(uuid "f9ecdab1-7345-4d3d-b7eb-5297c0ccc97e")
-		(at 97.5 117)
+		(at 97 117)
 		(property "Reference" "L2"
 			(at -3.5 1.5 0)
 			(layer "F.SilkS")
