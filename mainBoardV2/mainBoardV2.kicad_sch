@@ -6417,7 +6417,7 @@
 				)
 			)
 		)
-		(property "Value" "470k"
+		(property "Value" "300"
 			(at 99.06 50.8 90)
 			(effects
 				(font
@@ -8583,7 +8583,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-6032-15_Kemet-U_HandSolder"
 			(at 256.2352 115.57 0)
 			(effects
 				(font
@@ -9278,7 +9278,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-6032-15_Kemet-U_HandSolder"
 			(at 267.6652 115.57 0)
 			(effects
 				(font
@@ -9687,7 +9687,7 @@
 				)
 			)
 		)
-		(property "Value" "470k"
+		(property "Value" "160"
 			(at 99.314 43.18 90)
 			(effects
 				(font
