@@ -11,4 +11,5 @@
   (lib (name "USB4125-GF-A_REVA2")(type "KiCad")(uri "${KIPRJMOD}/modelFiles/USB4125-GF-A_REVA2/USB4125-GF-A_REVA2.kicad_sym")(options "")(descr ""))
   (lib (name "TPS61023DRLT")(type "KiCad")(uri "${KIPRJMOD}/modelFiles/TPS61023DRLT/TPS61023DRLT.kicad_sym")(options "")(descr ""))
   (lib (name "XEL4030-102MEC")(type "KiCad")(uri "${KIPRJMOD}/modelFiles/XEL4030-102MEC/XEL4030-102MEC.kicad_sym")(options "")(descr ""))
+  (lib (name "WE-MAPI_4030")(type "KiCad")(uri "${KIPRJMOD}/modelFiles/WE-MAPI_4030/WE-MAPI_4030.kicad_sym")(options "")(descr ""))
 )
