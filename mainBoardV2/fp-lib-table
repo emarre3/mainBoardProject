@@ -12,5 +12,4 @@
   (lib (name "BivarSMTL-SRGY")(type "KiCad")(uri "${KIPRJMOD}/modelFiles/BivarSMTL-SRGY")(options "")(descr ""))
   (lib (name "TPS61023DRLT")(type "KiCad")(uri "${KIPRJMOD}/modelFiles/TPS61023DRLT")(options "")(descr ""))
   (lib (name "XEL4030-102MEC")(type "KiCad")(uri "${KIPRJMOD}/modelFiles/XEL4030-102MEC")(options "")(descr ""))
-  (lib (name "WE-MAPI_4030")(type "KiCad")(uri "${KIPRJMOD}/modelFiles/WE-MAPI_4030")(options "")(descr ""))
 )
